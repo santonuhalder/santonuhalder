@@ -6,6 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:003300,100:00ff41&height=220&section=header&text=SANTONU%20HALDER&fontSize=55&fontColor=00ff41&fontAlignY=45&desc=%E2%96%B6%20Cyber%20Security%20Expert%20%20%7C%20%20Penetration%20Tester%20%20%7C%20%20Tool%20Developer&descSize=15&descAlignY=68&animation=twinkling"/>
 
+</div>
 
 <br>
 
