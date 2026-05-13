@@ -37,14 +37,14 @@
 │                                             │
 │  NAME     :  Santonu Halder                 │
 │  ALIAS    :  0xSantonu                      │
-│  NATION   :  Bangladesh  🇧🇩               │
+│  NATION   :  Bangladesh  🇧🇩                 │
 │  ROLE     :  Cyber Security Expert          │
 │             Penetration Tester              │
 │             Red Team Operator               │
 │             Tool Developer                  │
 │             Blackhat Hacker                 │
 │                                             │
-│  CERTS    :  CEH  ·  CRTA  ·  CAP          │
+│  CERTS    :  CEH  ·  CRTA  ·  CAP           │
 │  CODE     :  Python  Go  C  C#              │
 │                                             │
 │  STATUS   :  [■■■■■■■■■░]  hunting...       │
