@@ -6,13 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:003300,100:00ff41&height=220&section=header&text=SANTONU%20HALDER&fontSize=55&fontColor=00ff41&fontAlignY=45&desc=%E2%96%B6%20Cyber%20Security%20Expert%20%20%7C%20%20Penetration%20Tester%20%20%7C%20%20Tool%20Developer&descSize=15&descAlignY=68&animation=twinkling"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=680&lines=%5B%2B%5D+root%40santonu%3A~%23+sudo+su;%5B%2B%5D+CEH+%7C+CRTA+%7C+CAP+%E2%80%94+Certified+%26+Lethal;%5B%2B%5D+Python+%7C+Go+%7C+C+%7C+C%23+%E2%80%94+I+speak+machine;%5B%2B%5D+143+SQLi+payloads.+0+false+positives.;%5B%2B%5D+Private+tools+that+don%27t+exist+on+Google.;%5B%2B%5D+Blackhat+knowledge.+Ethical+execution.;%5B%2B%5D+hack+the+planet.)](https://github.com/santonuhalder)
-
-</div>
 
 <br>
 
